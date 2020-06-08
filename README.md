@@ -4,7 +4,7 @@ In this machine learning project, I have collected the dataset from kaggle
 any person is suffering from heart disease
 
 There are some steps involved:-
-1. Exploratory Data Analysis
+### 1. Exploratory Data Analysis
   
   The main goal in exploratory data analysis is to find more about the data and become a 
   subject matter export on the dataset you're working with
