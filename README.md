@@ -23,3 +23,22 @@ There are some steps involved:-
 ### 3. Data Processing
   After exploring the dataset, I observed that I need to convert some categorical         variables into dummy variables and scale all the values before training the Machine     Learning models. First, I'll use the get_dummies method to create dummy columns
   for categorical variables.
+
+### 4. Applying machine learning algorithms
+    
+    We have applied 6 different machine learning models:
+    
+    1. Logistic Regression
+    2. K-Nearest Neighbours Classifier
+    3. Support Vector machine
+    4. Decision Tree Classifier
+    5. Random Forest Classifier
+    6. XGBoost Classifier
+    
+Training Accuracy %	Testing Accuracy %
+0	Logistic Regression	86.79	86.81
+1	K-nearest neighbors	86.79	86.81
+2	Support Vector Machine	93.40	87.91
+3	Decision Tree Classifier	100.00	78.02
+4	Random Forest Classifier	100.00	82.42
+5	XGBoost Classifier	98.58	83.52
