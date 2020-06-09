@@ -35,10 +35,3 @@ There are some steps involved:-
     5. Random Forest Classifier
     6. XGBoost Classifier
     
-Training Accuracy %	Testing Accuracy %
-0	Logistic Regression	86.79	86.81
-1	K-nearest neighbors	86.79	86.81
-2	Support Vector Machine	93.40	87.91
-3	Decision Tree Classifier	100.00	78.02
-4	Random Forest Classifier	100.00	82.42
-5	XGBoost Classifier	98.58	83.52
