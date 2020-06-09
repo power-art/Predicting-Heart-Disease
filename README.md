@@ -14,3 +14,11 @@ There are some steps involved:-
   3. What is missing from the data and how do you deal with it?
   4. Where are the outliers and why should you care about them?
   5. How can you add, change or remove features to get more out of your data?
+
+### 2. Correlation Matrix
+  
+    - After fbs and chol are the  lowest correlated with the target variable
+    - All other variables have a significant correlation with the target variable
+
+### 3. Data Processing
+
