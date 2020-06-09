@@ -21,4 +21,5 @@ There are some steps involved:-
     - All other variables have a significant correlation with the target variable
 
 ### 3. Data Processing
-
+  After exploring the dataset, I observed that I need to convert some categorical         variables into dummy variables and scale all the values before training the Machine     Learning models. First, I'll use the get_dummies method to create dummy columns
+  for categorical variables.
